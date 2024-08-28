@@ -20,6 +20,8 @@
 <br>
 **OpenCore**: 0.8.8
 <br>
+**SMBIOS**: iMac18,1
+<br>
 **Release date**: 28/5/2023
 
 # 🖥️ Hackintosh Specs
@@ -30,7 +32,7 @@
 |Memory|2x 8Gb DDR4 2400Mhz|
 |Storage|480GB SSD KINGSTON SA400S372480G |
 |GPU|iGPU Intel HD Graphics 630 1536 MB|
-|Ethernet|Intel Gigabit I219-V|
+|Ethernet|RTL8111/8168/8411 PCI Express Gigabit Ethernet|
 |WLAN+Bluetooth|TP-Link Archer T2Ub Nano Ac600|
 |Audio|Realtek ALC887 (0x0887)|
 |Mobo|ASUS H110M-D|
@@ -56,6 +58,13 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![macOSver](https://img.shields.io/badge/macOS-13.4-brightgreen.svg)](https://support.apple.com/HT213843)
 
+**OS**: macOS Ventura 13.4 (22F66)
+<br>
+**OpenCore**: 0.8.8
+<br>
+**Release date**: 28/5/2023
+<br>
+<br>
 ![About This Mac](https://raw.githubusercontent.com/Hackoak/hackintosh/master/Ventura/Details/About%20This%20Mac_v.png)
 
 # ⚙️ Setup
