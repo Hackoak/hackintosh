@@ -20,3 +20,8 @@ sudo kextcache -i/
 ```
 
 - Restart and enjoy 🎉
+
+# References
+
+- [HoRNDIS](https://github.com/jwise/HoRNDIS/releases)
+- [Pacifist](https://www.charlessoft.com)
