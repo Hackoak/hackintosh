@@ -99,7 +99,6 @@ sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallm
  then you're good to go! Otherwise, `Generate` again.
 7. once you get the right serial number, click the Save button at top.
 8. Restart and enjoy 🎉
-⊖−⊟
 
 </details>
 
